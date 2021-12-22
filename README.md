@@ -1,0 +1,2 @@
+# Sempai-Bot
+Sempai-Bot
